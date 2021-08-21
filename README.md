@@ -12,9 +12,9 @@ I also have a friend who also has Python on the stack (Flask)
 
                                      --------------------Связаться со мной / Contacts--------------------
 
-Ru: Обращайтесь по поводу верстки, front-end & back-end ко мне в Телеграм: https://t.me/rodion08 . 
+Ru: Обращайтесь по поводу верстки, front-end & back-end ко мне в Телеграм: https://t.me/rodion08 .📞
 
-En: Contact me for layout, front-end & back-end in Telegram: https://t.me/rodion08 .
+En: Contact me for layout, front-end & back-end in Telegram: https://t.me/rodion08 .📞
 
                                       -----------------------Портфолио / portfolio-----------------------
                       
